@@ -2,7 +2,7 @@
   "name": "hola",
   "version": "1.0.0",
   "description": "Primer proyecto",
-  "main": "index.js",
+  "main": "ejercicio2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
